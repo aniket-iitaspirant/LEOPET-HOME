@@ -1,0 +1,364 @@
+/* This is my header started */
+.header{
+    height: 130px;
+    width: 100%;
+}
+
+.div1{
+    height: 55px;
+    width: 55px;
+    float: right;
+    margin-right: 628px;
+    margin-top: 35px;
+}
+
+.phone{
+    height: 56px;
+}
+
+.phone:hover{
+    cursor: pointer;
+}
+
+.two{
+    float: right;
+    margin-right: -222px;
+    padding-top: 35px;
+    color: rgb(108, 107, 107);
+}
+
+.two:hover{
+    cursor: pointer;
+}
+
+.div2{
+    height: 57px;
+    width: 302px;
+    background-color: #FF5B5B;
+    float: right;
+    margin-right: -545px;
+    margin-top: 29px;
+    border-radius: 50px;
+}
+
+.div2:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+
+
+.Become{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+.header1{
+    height: 100px;
+    width: 100%;
+    background-color: #082B49;
+}
+
+.div3{
+    height: 100px;
+    width: 80%;
+    margin-left: 150px;
+}
+
+.div4{
+    height: 100px;
+    width: 117px;
+}
+
+.home{
+    text-align: center;
+    color: #ffffffff;
+    margin-top: 0px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+
+.home:hover{
+    color: #53C9BB !important;
+    cursor: pointer;
+}
+
+.div5{
+    height: 100px;
+    width: 117px;
+    margin-right: 906px;
+    float: right;
+    margin-top: -100px;
+}
+
+.About{
+    text-align: center;
+    color: #ffffffff;
+    margin-top: 0px;
+    padding-top: 40px;
+    font-size: 20px;  
+}
+
+.About:hover{
+    color: #53C9BB !important;
+    cursor: pointer;
+}
+
+.div6{
+    height: 100px;
+    width: 117px;
+    margin-right: 734px;
+    float: right;
+    margin-top: -100px;  
+}
+
+.Services{
+    text-align: center;
+    color: #ffffffff;
+    margin-top: 0px;
+    padding-top: 40px;
+    font-size: 20px;     
+}
+
+.Services:hover{
+    color: #53C9BB !important;
+    cursor: pointer;
+}
+
+.div7{
+    height: 100px;
+    width: 117px;
+    margin-right: 555px;
+    float: right;
+    margin-top: -100px;   
+}
+
+.Gallery{
+    text-align: center;
+    color: #ffffffff;
+    margin-top: 0px;
+    padding-top: 40px;
+    font-size: 20px; 
+}
+
+.Gallery:hover{
+    color: #53C9BB !important;
+    cursor: pointer; 
+}
+
+.div8{
+    height: 100px;
+    width: 117px;
+    margin-right: 379px;
+    float: right;
+    margin-top: -100px;   
+}
+
+.PAGES{
+    text-align: center;
+    color: #ffffffff;
+    margin-top: 0px;
+    padding-top: 40px;
+    font-size: 20px; 
+}
+
+.PAGES:hover{
+    color: #53C9BB !important;
+    cursor: pointer; 
+}
+
+.div9{
+    height: 100px;
+    width: 117px;
+    margin-right: 252px;
+    float: right;
+    margin-top: -100px;   
+}
+
+.Blog{
+    text-align: center;
+    color: #ffffffff;
+    margin-top: 0px;
+    padding-top: 40px;
+    font-size: 20px;  
+}
+
+.Blog:hover{
+    color: #53C9BB !important;
+    cursor: pointer;  
+}
+
+.div10{
+    height: 100px;
+    width: 117px;
+    margin-right: 132px;
+    float: right;
+    margin-top: -100px;
+}
+
+.Contact{
+    text-align: center;
+    color: #ffffffff;
+    margin-top: 0px;
+    padding-top: 40px;
+    font-size: 20px;    
+}
+
+.Contact:hover{
+    color: #53C9BB !important;
+    cursor: pointer;   
+}
+
+/* My header is finsid  */
+/* This is my IMG BODY */
+
+.body{
+    height: 626px;
+    width: 100%;
+    background-image: url(img/dogimg.webp);
+    background-size: cover;
+    margin-top: -30px;
+}
+
+.div11{
+    height: 581px;
+    width: 675px;
+    margin-left: 79px;
+}
+
+.div12{
+    height: 100px;
+    width: 675px;
+}
+
+.Welcome{
+    font-size: 30px;
+    color: red;
+    padding-top: 54px;
+    padding-left: 20px;
+    font-family: monospace;
+}
+
+.div13{
+    height: 379px;
+    width: 675px;
+    font-family: monospace;
+    margin-top: -61px;
+}
+
+.Give{
+    font-size: 91px;
+    color: #082B49;
+    padding-top: 54px;
+    padding-left: 20px;
+    font-family: monospace;
+}
+
+.div14{
+    height: 55px;
+    width: 204px;
+    background-color: #53C9BB;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.div14:hover{
+    background-color: #FF5B5B;
+}
+
+
+.SERVIECS{
+    font-size: 20px;
+    text-align: center;
+    font-family: monospace;
+    color: #ffffffff;
+    padding-top: 17px;
+}
+
+.SERVIECS:hover{
+    cursor: pointer;
+}
+/* My header body is completed  */
+/* This is my second body starded */
+
+.div15{
+    height: 600px;
+    width: 100%;
+    background-color: red;
+    margin-top: 70px;
+}
+
+.left3{
+    height: 600px;
+    width: 50%;
+    background-color: orange;
+    float: left;
+}
+
+.right3{
+    height: 600px;
+    width: 50%;
+    background-color: aqua;
+    float: right; 
+}
+
+.girl-and-dogimg{
+    height: 600px;
+    width: 71%;
+    margin-left: 86px;
+}
+
+.div16{
+    height: 99px;
+    width: 100%;
+    background-color: yellow;
+    float: right;
+}
+
+.div17{
+    height: 99px;
+    width: 15%;
+    background-color: red;
+}
+
+.div18{
+    height: 170px;
+    width: 100%;
+    background-color: yellowgreen;
+    margin-top: 100px;
+}
+
+.pets{
+    font-size: 71px; 
+    color: #082B49;
+    font-family: monospace;
+}
+
+.div19{
+    height: 146px;
+    width: 100%;
+    background-color: green;
+    margin-top: 2px;
+}
+
+.Working{
+    font-size: 20px;
+    color: #4D4D4D;
+    font-family: monospace;
+}
+
+.div20{
+    height: 133px;
+    width: 100%;
+    background-color: red;
+}
+
+.div21{
+    height: 59px;
+    width: 246px;
+    background-color: #53C9BB;
+    border-radius: 50px;
+    margin-left: 2px;
+    margin-top: 29px;
+}
