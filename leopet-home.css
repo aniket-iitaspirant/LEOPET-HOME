@@ -1,6 +1,6 @@
 /* This is my header started */
 .header{
-    height: 130px;
+    height: 112px;
     width: 100%;
 }
 
@@ -285,21 +285,18 @@
 .div15{
     height: 600px;
     width: 100%;
-    background-color: red;
     margin-top: 70px;
 }
 
 .left3{
     height: 600px;
     width: 50%;
-    background-color: orange;
     float: left;
 }
 
 .right3{
     height: 600px;
     width: 50%;
-    background-color: aqua;
     float: right; 
 }
 
@@ -312,20 +309,19 @@
 .div16{
     height: 99px;
     width: 100%;
-    background-color: yellow;
     float: right;
 }
 
 .div17{
     height: 99px;
-    width: 15%;
-    background-color: red;
+    width: 14%;
+    background-size: contain;
+    background-image: url(img/imgog-doog.webp);
 }
 
 .div18{
     height: 170px;
     width: 100%;
-    background-color: yellowgreen;
     margin-top: 100px;
 }
 
@@ -338,7 +334,6 @@
 .div19{
     height: 146px;
     width: 100%;
-    background-color: green;
     margin-top: 2px;
 }
 
@@ -351,7 +346,6 @@
 .div20{
     height: 133px;
     width: 100%;
-    background-color: red;
 }
 
 .div21{
@@ -361,4 +355,932 @@
     border-radius: 50px;
     margin-left: 2px;
     margin-top: 29px;
+}
+
+.div21:hover{
+    background-color: #FF5B5B;
+    cursor: pointer;
+}
+
+
+.ABOUT{
+    font-size: 20px;
+    text-align: center;
+    color: #ffffffff;
+    padding-top: 20px;
+}
+/* my second continer is doone */
+/* This is my third continer is started.  */
+
+.div22{
+    height: 1050px;
+    width: 100%;
+    margin-top: 20px;
+    background-image: url(img/imsi-img.webp);
+}
+
+
+.div23{
+    height: 99px;
+    width: 7%;
+    position: absolute;
+    margin-top: 92px;
+    margin-left: 759px;
+    background-image: url(img/imgog-doog.webp);
+    background-size: contain;
+}
+
+.div24{
+    height: 171px;
+    width: 70%;
+    margin-left: 245px;
+    position: absolute;
+    margin-top: 201px;
+}
+
+.Provide{
+    font-size: 70px;
+    color: black;
+    text-align: center;
+    margin-top: -14px;
+    font-family: monospace;
+}
+
+.Working1{
+    font-size: 18px;
+    font-family: monospace;
+    text-align: center;
+    margin-top: -48px;
+}
+
+.div25{
+    height: 525px;
+    width: 30%;
+    position: absolute;
+    margin-top: 429px;
+    margin-left: 40px;
+}
+
+.div26{
+    height: 525px;
+    width: 30%;
+    position: absolute;
+    margin-top: 429px;
+    margin-left: 522px;
+}
+
+.div27{
+    height: 525px;
+    width: 30%;
+    position: absolute;
+    margin-top: 429px;
+    margin-left: 1004px;
+}
+
+.div28{
+    height: 49%;
+    width: 57%;
+    border-radius: 100%;
+    margin-left: 87px;
+    background-image: url(img/dog1.webp);
+    background-size: contain;
+}
+
+.div29{
+    height: 49%;
+    width: 57%;
+    border-radius: 100%;
+    margin-left: 87px;
+    background-image: url(img/dog2.webp);
+    background-size: contain;
+}
+
+.div30{
+    height: 49%;
+    width: 57%;
+    border-radius: 100%;
+    margin-left: 87px;
+    background-image: url(img/dog3.webp);
+    background-size: contain;
+}
+
+
+
+.div31{
+    height: 268px;
+    width: 100%;
+    margin-top: -40px;
+}
+
+.div32{
+    height: 70px;
+    width: 100%;
+}
+
+.div33{
+    height: 268px;
+    width: 100%;
+    margin-top: -40px;
+}
+
+.div34{
+    height: 70px;
+    width: 100%;
+}
+
+.div35{
+    height: 268px;
+    width: 100%;
+    margin-top: -40px;
+}
+
+.div36{
+    height: 70px;
+    width: 100%;
+}
+
+.pet1{
+    font-size: 40px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.pet2{
+    font-size: 40px;
+    text-align: center;
+    font-family: monospace;  
+}
+
+.pet3{
+    font-size: 40px;
+    text-align: center;
+    font-family: monospace;  
+}
+
+.div37{
+    height: 197px;
+    width: 100%;
+    margin-top: -23px;
+}
+
+.veterinary{
+    font-size: 23px;
+    color: #4D4D4D;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.div38{
+    height: 197px;
+    width: 100%;
+    margin-top: -23px;
+}
+
+.veterinary1{
+    font-size: 23px;
+    color: #4D4D4D;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.div39{
+    height: 197px;
+    width: 100%;
+    margin-top: -23px;
+}
+
+.veterinary2{
+    font-size: 23px;
+    color: #4D4D4D;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.div40{
+    height: 700px;
+    width: 100%;
+}
+
+.div41{
+    height: 700px;
+    width: 50%;
+}
+
+.div42{
+    height: 700px;
+    width: 50%;
+    float: right;
+    margin-top: -700px;
+}
+
+.dog4{
+    height: 578px;
+    width: 81%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.div43{
+    height: 150px;
+    width: 100%;
+}
+
+.help{
+    font-size: 63px;
+    font-family: monospace;
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+.div44{
+    height: 100px;
+    width: 100%;
+    margin-top: -20px;
+}
+
+.Working2{
+    font-family: monospace;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.div45{
+    height: 190px;
+    width: 50%;
+}
+
+.div46{
+    height: 190px;
+    width: 50%;
+}
+
+.div47{
+    height: 190px;
+    width: 50%;
+    float: right;
+    margin-top: -190px;
+}
+
+.div48{
+    height: 96px;
+    width: 50%;
+    margin: auto;
+    background-image: url(img/ihytdgb.webp);
+    background-size: contain;
+}
+
+.five{
+    text-align: center;
+    font-size: 43px;
+    margin-top: 0px;
+    font-family: cursive;
+}
+
+.Available{
+    font-size: 20px;
+    text-align: center;
+    margin-top: -51px;
+    font-family: cursive;
+}
+
+.div49{
+    height: 84px;
+    width: 50%;
+    margin: auto;
+    background-image: url(img/heart.webp);
+    background-size: contain;
+}
+
+.six{
+    text-align: center;
+    font-size: 43px;
+    margin-top: 0px;
+    font-family: cursive; 
+}
+
+.happy1{
+    font-size: 20px;
+    text-align: center;
+    margin-top: -41px;
+    font-family: cursive;
+}
+
+.div50{
+    height: 60px;
+    width: 30%;
+    background-color: #53C9BB;
+    margin-top: 100px;
+    border-radius: 90px;
+}
+
+.div50:hover{
+    background-color: #FF5B5B;
+    cursor: pointer;
+}
+
+.BROWS{
+    font-size: 20px;
+    text-align: center;
+    color: #ffffffff;
+    padding-top: 23px;
+}
+
+.BROWS:hover{
+    cursor: pointer;
+}
+
+.div51{
+    height: 704px;
+    width: 100%;
+    background-image: url(img/girllll.webp);
+    background-size: cover;
+}
+
+.div52{
+    height: 424px;
+    width: 50%;
+    position: absolute;
+    margin-top: 128px;
+    margin-left: 316px;
+}
+
+.div53{
+    height: 80px;
+    width: 80px;
+    background-color: #53C9BB;
+    border-radius: 80px;
+    margin: auto;
+    background-image: url(img/dogggggggggggggggg.webp);
+}
+
+.div54{
+    height: 271px;
+    width: 100%;
+}
+
+.div55{
+    height: 230px;
+    width: 100%;
+}
+
+.div56{
+    height: 41px;
+    width: 100%;
+    margin-top: -18px;
+}
+
+.conjunction{
+    font-size: 41px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.Miller{
+    font-size: 18px;
+    color: gray;
+    text-align: center;
+}
+
+.div57{
+    height: 32px;
+    width: 100%;
+}
+
+.div58{
+    height: 16px;
+    width: 16px;
+    background-color: red;
+    border-radius: 100px;
+    margin-left: 311px;
+}
+
+.div59{
+    height: 16px;
+    width: 16px;
+    background-color: gray;
+    border-radius: 100px;
+    margin-left: 344px; 
+    margin-top: -16px;
+}
+
+.div60{
+    height: 16px;
+    width: 16px;
+    background-color: gray;
+    border-radius: 100px;
+    margin-left: 377px; 
+    margin-top: -16px;
+}
+
+.div61{
+    height: 650px;
+    width: 100%;
+}
+
+.div62{
+    height: 650px;
+    width: 50%;
+}
+
+.div64{
+    height: 474px;
+    width: 34%;
+    margin-left: 98px;
+    position: absolute;
+    margin-top: 95px;
+    background-image: url(img/women-heart.webp);
+    background-size: contain;
+}
+
+.div65{
+    height: 474px;
+    width: 34%;
+    margin-left: 874px;
+    margin-top: 95px;
+    position: absolute;
+}
+
+.div66{
+    height: 80px;
+    width: 17%;
+    background-image: url(img/imgog-doog.webp);
+    background-size: contain;
+}
+
+.div67{
+    height: 227px;
+    width: 100%;
+    margin-top: -40px;
+}
+
+.Volunteer{
+    font-size: 50px;
+    font-family: monospace;
+}
+
+.firmament{
+    font-size: 14px;
+    margin-top: -25px;
+    font-family: monospace;
+}
+
+.div68{
+    height: 54px;
+    width: 42%;
+    background-color: #53C9BB;
+    margin-top: 45px;
+    border-radius: 100px;
+}
+
+.div68:hover{
+    cursor: pointer;
+    background-color: #FF5B5B;
+}
+
+
+.red-more{
+    text-align: center;
+    padding-top: 19px;
+    color: #ffffffff;
+}
+
+.div69{
+    height: 980px;
+    width: 100%;
+    background-image: url(img/purple-div.webp);
+    background-size: cover;
+}
+
+.div70{
+    height: 895px;
+    width: 99%;
+    position: absolute;
+    margin-top: 85px;
+}
+
+.div71{
+    height: 200px;
+    width: 100%;
+    margin-top: -40px;
+}
+
+.div72{
+    height: 200px;
+    width: 50%;
+    margin: auto;
+}
+
+.Subscribe{
+    font-family: monospace;
+    color: #ffffffff;
+    text-align: center;
+    font-size: 40px;
+}
+
+.strictly{
+    font-family: monospace;
+    color: #ffffffff;
+    text-align: center;
+    margin-top: -25px;
+    font-size: 17px;
+}
+
+.div73{
+    height: 100px;
+    width: 43%;
+    background-color: aliceblue;
+    margin-left: 117px;
+    border-radius: 5px;
+}
+
+.fname{
+    color: gray;
+    height: 95px;
+    width: 316px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.div74{
+    height: 100px;
+    width: 181px;
+    background-color: #FF5B5B;
+    margin-top: -119px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-left: 440px;
+}
+
+.div74:hover{
+    cursor: pointer;
+}
+
+.free{
+    font-size: 19px;
+    text-align: center;
+    color: #ffffffff;
+    font-family: monospace;
+    padding-top: 36px;
+}
+
+.div75{
+    height: 490px;
+    width: 75%;
+    margin: auto;
+    margin-top: -15px;
+}
+
+.div76{
+    height: 490px;
+    width: 20%;
+}
+
+.div77{
+    height: 490px;
+    width: 20%;
+    margin-left: 300px;
+    margin-top: -519px;
+}
+
+.div78{
+    height: 490px;
+    width: 20%;
+    margin-left: 600px;
+    margin-top: -520px;
+}
+
+.div79{
+    height: 490px;
+    width: 20%;
+    margin-left: 899px;
+    margin-top: -520px;
+}
+
+.div80{
+    height: 80px;
+    width: 100%;
+}
+
+.div81{
+    height: 80px;
+    width: 100%;
+}
+
+.div82{
+    height: 80px;
+    width: 100%;
+}
+
+.div83{
+    height: 80px;
+    width: 100%;
+}
+
+.Menu{
+    font-size: 30px;
+    font-family: monospace;
+    text-align: center;
+    padding-top: 20px;
+    color: #ffffffff;
+}
+
+.contact{
+    font-size: 30px;
+    font-family: monospace;
+    text-align: center;
+    padding-top: 20px;
+    color: #ffffffff;
+}
+
+.Address{
+    font-size: 30px;
+    font-family: monospace;
+    text-align: center;
+    padding-top: 20px;
+    color: #ffffffff;
+}
+
+
+.Opening{
+    font-size: 30px;
+    font-family: monospace;
+    text-align: center;
+    padding-top: 20px; 
+    color: #ffffffff;
+}
+
+.homeee{
+    font-family: monospace;
+    color: #ffffffff;
+    font-size: 25px;
+    margin-left: 81px;
+    padding-top: 20px;
+    text-decoration: unset;
+}
+
+.homeee:hover{
+    transition: 0.3s;
+    color: #53C9BB;
+}
+
+
+.div84{
+    height: 60px;
+    width: 100%;
+}
+
+.about{
+    font-family: monospace;
+    color: #ffffffff;
+    font-size: 25px;
+    margin-left: 81px;
+    padding-top: 20px;
+    text-decoration: unset;
+}
+
+.about:hover{
+    transition: 0.3s;
+    color: #53C9BB;
+}
+
+.div85{
+    height: 60px;
+    width: 100%;
+}
+
+.div86{
+    height: 60px;
+    width: 100%;
+}
+
+.shop{
+    color: #ffffffff;
+    font-size: 25px;
+    margin-left: 81px;
+    padding-top: 20px;
+    text-decoration: unset; 
+    font-family: monospace; 
+}
+
+.shop:hover{
+    transition: 0.3s;
+    color: #53C9BB;
+}
+
+.div87{
+    height: 60px;
+    width: 100%;
+}
+
+.Contact{
+    color: #ffffffff;
+    font-size: 25px;
+    margin-left: 81px;
+    padding-top: 20px;
+    text-decoration: unset; 
+    font-family: monospace;  
+}
+
+.Contact:hover{
+    transition: 0.3s;
+    color: #53C9BB;
+}
+
+.div88{
+    height: 60px;
+    width: 100%;
+}
+
+.ten{
+    color: #ffffffff;
+    font-size: 20px;
+    margin-left: 60px;
+    padding-top: 20px;
+    text-decoration: unset; 
+    font-family: monospace;    
+}
+
+.ten:hover{
+    transition: 0.3s;
+    color: #53C9BB;
+}
+
+.div89{
+    height: 60px;
+    width: 100%;
+}
+
+.href{
+    color: #ffffffff;
+    font-size: 20px;
+    margin-left: 60px;
+    padding-top: 20px;
+    text-decoration: unset; 
+    font-family: monospace;    
+}
+
+.href:hover{
+    transition: 0.3s;
+    color: #53C9BB;
+}
+
+.div90{
+    height: 60px;
+    width: 100%;
+}
+
+.dfg{
+    color: #ffffffff;
+    padding-top: 20px;
+    text-decoration: unset; 
+    font-family: monospace; 
+    font-size: 17px;
+    margin-left: 33px;
+}
+
+.dfg:hover{
+    transition: 0.3s;
+    color: #53C9BB;
+}
+
+.dgh{
+    color: #ffffffff;
+    font-size: 17px;
+    margin-left: 33px;
+    padding-top: 20px;
+    text-decoration: unset; 
+    font-family: monospace; 
+}
+
+.dgh:hover{
+    transition: 0.3s;
+    color: #53C9BB;
+}
+
+.div91{
+    height: 60px;
+    width: 100%;
+}
+
+.Direction{
+    color: #ffffffff;
+    font-size: 20px;
+    margin-left: 33px;
+    padding-top: 20px;
+    text-decoration: unset; 
+    font-family: monospace; 
+}
+
+.Direction:hover{
+    transition: 0.3s;
+    color: #53C9BB;
+}
+
+.div92{
+    height: 60px;
+    width: 100%;
+}
+
+.Moon{
+    color: #ffffffff;
+    font-size: 18px;
+    margin-left: 19px;
+    padding-top: 20px;
+    text-decoration: unset; 
+    font-family: monospace;  
+}
+
+.Moon:hover{
+    transition: 0.3s;
+    color: #53C9BB;
+}
+
+.div93{
+    height: 60px;
+    width: 100%;
+}
+
+.Sun{
+    color: #ffffffff;
+    font-size: 18px;
+    margin-left: 19px;
+    padding-top: 20px;
+    text-decoration: unset; 
+    font-family: monospace;  
+}
+
+.Sun:hover{
+   transition: 0.3s;
+   color: #53C9BB; 
+}
+
+.div94{
+    height: 20px;
+    width: 75%;
+    margin-bottom: 20px;
+    margin: auto;
+}
+
+.div95{
+    height: 2px;
+    width: 100%;
+    background-color: #ffffffff;
+    margin-top: 20px;
+}
+
+.div96{
+    height: 100px;
+    width: 100%;
+    margin: auto;
+    margin-top: 33px;
+}
+
+.div97{
+    height: 50px;
+    width: 17%;
+    margin-top: 40px;
+    margin-left: 40px;
+    background-image: url(img/lago.webp);
+    background-size: contain;
+}
+
+.div98{
+    height: 50px;
+    width: 50%;
+    float: right;
+    margin-top: -50px;
+}
+
+.div99{
+    height: 23px;
+    width: 23px;
+    margin-top: -35px;
+    margin-left: 394px;
+    background-image: url(img/logo-of-hert.jpg);
+    background-size: contain;
+}
+
+.Copyright{
+    font-size: 15px;
+    color: #ffffffff;
+}
+
+.byyyy{
+    font-size: 15px;
+    color: #ffffffff;
+    padding-left: 422px;
+    margin-top: -20px;
+}
+
+.Colorlib{
+    font-size: 15px;
+    color: #FF5B5B;
+    padding-left: 441px;
+    margin-top: -33px;
+}
+
+.Colorlib:hover{
+    cursor: pointer;
 }
